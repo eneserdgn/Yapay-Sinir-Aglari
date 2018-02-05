@@ -1,0 +1,10 @@
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\bin\Debug\YapaySinirAgı.exe.config
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\bin\Debug\YapaySinirAgı.exe
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\bin\Debug\YapaySinirAgı.pdb
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\obj\Debug\YapaySinirAgı.csprojResolveAssemblyReference.cache
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\obj\Debug\YapaySinirAgı.Form1.resources
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\obj\Debug\YapaySinirAgı.Properties.Resources.resources
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\obj\Debug\YapaySinirAgı.csproj.GenerateResource.Cache
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\obj\Debug\YapaySinirAgı.csproj.CoreCompileInputs.cache
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\obj\Debug\YapaySinirAgı.exe
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\YapaySinirAgı\YapaySinirAgı\obj\Debug\YapaySinirAgı.pdb
